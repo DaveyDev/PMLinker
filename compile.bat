@@ -1,0 +1,1 @@
+clang main.c lib/libraylib.a -lopengl32 -lgdi32 -lwinmm -o main
